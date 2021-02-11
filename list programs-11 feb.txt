@@ -1,0 +1,50 @@
+1. Write a Python program to sum all the items in a list.
+
+2. Write a Python program to get the largest number from a list.
+
+3. Write a python program which will input 5 names from the user and print the names in alphabetical order. 
+
+4. Write a python program which will have list of values and then input a number and check if the value is present in the list or not. and if present, print the number of occurances. 
+
+5. Write a Python program to remove duplicates from a list.
+
+6. Write a Python program to check a list is empty or not.
+
+7. Write a program to input a value and insert it in the given position in the list. 
+
+8. Write a program to input names and marks of 5 students. Print the name & marks of student who got the highest and lowest marks. 
+
+9. Write a python program which will have list of values and find the second largest element of the list. 
+
+
+
+10. Write a Python program to find the list of words that are longer than n from a given list of words.
+
+11. Write a Python function that takes two lists and returns True if they have at least one common member.
+
+12. Write a Python program to access the index of a list.
+
+13. Write a Python program to shuffle and print a specified list.
+
+14. Write a Python program to generate and print a list of first and last 5 elements where the values are square of numbers between 1 and 30 (both included).
+
+15. Write a Python program to generate all permutations of a list in Python.
+
+16. Write a Python program to flatten a shallow list.
+
+17. Write a Python program to select an item randomly from a list.
+
+18. Write a Python program to get the frequency of the elements in a list.
+
+19. Write a Python program to create a list by concatenating a given list which range goes from 1 to n.
+
+20. Write a Python program to split a list based on first character of word.
+
+
+
+
+
+
+
+
+
