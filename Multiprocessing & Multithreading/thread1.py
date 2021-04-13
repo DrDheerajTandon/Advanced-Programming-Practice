@@ -5,4 +5,5 @@ def new():
         
 t1 = Thread(target=new)
 t1.start()
+t1.join()
 print('Bye')
